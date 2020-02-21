@@ -32,5 +32,5 @@ Numerous individuals including (for instance) most expert researchers, specialis
 The more central the change, as well as the more major the measurement that is changed, the more unique the recently potential structures,  will be. The stun of shock that goes to such (already outlandish) thoughts is a lot more noteworthy than the astonishment occasioned by simple impossibilities, anyway startling they might be. On the off chance that the changes are excessively extraordinary, the connection between the old and new spaces won't be promptly obvious. In such cases, the new structures will be ambiguous, and all around likely rejected. In fact, it might set aside some effort for the connection between the two spaces to be perceived and for the most part, acknowledged. 
 
 <body>
-  <h1> Link for full article:</h1>
+  <h2> Link for full article:</h2>
   <p><a href="https://www.researchgate.net/publication/333081140_Finding_Creativity_in_Artificial_Intelligence">Finding Creativity in Artificial Intelligence</a></p>
