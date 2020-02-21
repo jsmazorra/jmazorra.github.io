@@ -7,11 +7,7 @@ permalink: /about/
 
 <img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">
 
-# About
+# About Me
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Currently studying Data Science with the dream of working for a major corporation which specializes in the future of AI. My passion is to advance the technology of artificial intelligence to the certainty of self-independence so they can make their own choices. While also obeying commands put at hand, the AI would be able to use critical skills and problem solving skills to simulate a task that a human could do. We have seen this sort of advancements with OpenAI which is working on a project related to AGI, artifical general intelligence, which essentially is a much more advanced prototype in which this type of idea could be plausible to achieve.
+
