@@ -6,9 +6,9 @@ subtitle: Article by Johan Mazorra
 description: >-
 Innovativeness is a key component of human insight and a test for AI. Computer based intelligence procedures can be utilized to make new thoughts in three different ways: by creating novel mixes of commonplace thoughts; by investigating the capability of reasonable spaces; and by making changes that empower the age of beforehand unimaginable thoughts. Man-made intelligence will have less trouble in demonstrating the age of new thoughts than in computerizing their assessment.
 image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821648/theme5_wmutla.jpg
+ https://hackernoon.com/hn-images/1*QiDrhzVsl3N3sg-h_5r7TA.jpeg
 optimized_image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821648/theme5_wmutla.jpg
+  https://hackernoon.com/hn-images/1*QiDrhzVsl3N3sg-h_5r7TA.jpeg
 category: travel
 tags:
   - AI
@@ -32,83 +32,3 @@ Numerous individuals including (for instance) most expert researchers, specialis
 The more central the change, as well as the more major the measurement that is changed, the more unique the recently potential structures,  will be. The stun of shock that goes to such (already outlandish) thoughts is a lot more noteworthy than the astonishment occasioned by simple impossibilities, anyway startling they might be. On the off chance that the changes are excessively extraordinary, the connection between the old and new spaces won't be promptly obvious. In such cases, the new structures will be ambiguous, and all around likely rejected. In fact, it might set aside some effort for the connection between the two spaces to be perceived and for the most part, acknowledged. 
 
 --page-break--
-
-
-```js
-// Example can be run directly in your JavaScript console
-
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
-
-// Call the function
-adder(2, 6);
-// > 8
-```
-
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
-
-## Lists
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-## Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](https://placehold.it/800x400 "Large example image")
-![placeholder](https://placehold.it/400x200 "Medium example image")
-![placeholder](https://placehold.it/200x200 "Small example image")
-
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
