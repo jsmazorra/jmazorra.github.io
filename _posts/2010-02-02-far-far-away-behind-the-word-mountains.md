@@ -2,7 +2,7 @@
 date: 2020-02-20T19:17:18.000Z
 layout: post
 title: Creativity in Artifical Intelligence
-subtitle: Article by Johan Mazorra
+subtitle: by Johan Mazorra
 description: >-
 Innovativeness is a key component of human insight and a test for AI. Computer based intelligence procedures can be utilized to make new thoughts in three different ways: by creating novel mixes of commonplace thoughts; by investigating the capability of reasonable spaces; and by making changes that empower the age of beforehand unimaginable thoughts. Man-made intelligence will have less trouble in demonstrating the age of new thoughts than in computerizing their assessment.
 image: >-
