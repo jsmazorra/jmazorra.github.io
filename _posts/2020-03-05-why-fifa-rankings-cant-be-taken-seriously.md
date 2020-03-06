@@ -3,10 +3,11 @@ date: 2020-03-05 12:26:40
 layout: post
 title: Analysis of FIFA Rankings and Why It Can’t Be Taken Seriously
 subtitle: by Johan Mazorra
-description:by Johan Mazorra
+description: >-
+by Johan Mazorra
 image: https://miro.medium.com/max/6240/0*DlmE7BQM9vYQWCvy
 optimized_image: https://miro.medium.com/max/6240/0*DlmE7BQM9vYQWCvy
-category: life
+category: sports
 tags:
   - soccer
   - data science
