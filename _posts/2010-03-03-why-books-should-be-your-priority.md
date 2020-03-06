@@ -1,5 +1,5 @@
 ---
-date: 2018-11-22 12:26:40
+date: 2020-03-05 12:26:40
 layout: post
 title: Analysis of FIFA Rankings and Why It Can’t Be Taken Seriously
 subtitle: by Johan Mazorra
