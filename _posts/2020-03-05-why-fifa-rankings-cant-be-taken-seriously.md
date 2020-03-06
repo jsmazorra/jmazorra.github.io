@@ -17,10 +17,15 @@ paginate: true
 
 <h2> How the FIFA World Rankings Work </h2>
 The FIFA World Rankings are a creation of a logical recipe that attempts to defend a game that can’t be justified. The framework utilizes four variables to figure its positioning for each group:
+
 The first is truly normal; its points earned in a match (M). The group is granted three points for a triumph, one for a draw, and two for a victory in penalties.
+
 The following variable is the significance of the match (I). Cordial matches and small competitions are granted one point, World Cup or Continental qualifiers are granted two, Continental rivalries final or Confederations Cup are granted three, and the World Cup is granted four.
+
 The third factor is the remaining of the restriction, as indicated by the latest FIFA World Rankings that have been distributed (T). Taking 200 and subtracting it from the group’s positioning and afterward partitioning it by 100 figures this part.
+
 The last factor is the confederation’s quality which is C. The quality of the confederations is determined by the mean of the triumphs determined at the last three World Cups.
+
 The equation turns out P= M x I x T x C x 100.
 
 <h2> The Greatest Issue Lies Within Itself (Ironic isn’t it) </h2>
@@ -54,10 +59,3 @@ Soccer, similar to any game, is a game that can’t be justified. It is pleasant
 <body>
   <h3> Link to blog post in Medium:</h3>
   <p><a href="https://medium.com/@jsmazorra/analysis-of-fifa-rankings-and-why-it-cant-be-taken-seriously-404a22f0e765">Medium Article</a></p>
-
-
-
-
-
-
-
