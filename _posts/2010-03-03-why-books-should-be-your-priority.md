@@ -1,22 +1,19 @@
 ---
 date: 2018-11-22 12:26:40
 layout: post
-title: Why books should be your priority?
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+title: Analysis of FIFA Rankings and Why It Can’t Be Taken Seriously
+subtitle: by Johan Mazorra
+description:by Johan Mazorra
 image: https://miro.medium.com/max/6240/0*DlmE7BQM9vYQWCvy
 optimized_image: https://miro.medium.com/max/6240/0*DlmE7BQM9vYQWCvy
-category: life
+category: sports
 tags:
-  - books
-  - read
-author: thiagorossener
+  - soccer
+  - data science
+  - analysis
+author: johanmazorra
 paginate: true
 ---
-
-<h1> Analysis of FIFA Rankings and Why It Can’t Be Taken Seriously </h1>
-
-https://miro.medium.com/max/6240/0*DlmE7BQM9vYQWCvy
 
 <h2> How the FIFA World Rankings Work </h2>
 The FIFA World Rankings are a creation of a logical recipe that attempts to defend a game that can’t be justified. The framework utilizes four variables to figure its positioning for each group:
@@ -54,7 +51,9 @@ So while a country like Austria or Slovakia can be supported during the capabili
 
 Soccer, similar to any game, is a game that can’t be justified. It is pleasant to have a framework that figures how solid a group is. It assists individuals with reviewing the adversaries of their country, yet like any equation put to figure something in sports other than measurements, the FIFA World Rankings basically can’t get in all the elements.
 
-
+<body>
+  <h3> Link to blog post in Medium:</h3>
+  <p><a href="https://medium.com/@jsmazorra/analysis-of-fifa-rankings-and-why-it-cant-be-taken-seriously-404a22f0e765">Medium Article</a></p>
 
 
 
