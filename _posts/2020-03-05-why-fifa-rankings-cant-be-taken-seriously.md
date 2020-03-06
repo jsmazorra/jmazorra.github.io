@@ -6,7 +6,7 @@ subtitle: by Johan Mazorra
 description:by Johan Mazorra
 image: https://miro.medium.com/max/6240/0*DlmE7BQM9vYQWCvy
 optimized_image: https://miro.medium.com/max/6240/0*DlmE7BQM9vYQWCvy
-category: sports
+category: life
 tags:
   - soccer
   - data science
