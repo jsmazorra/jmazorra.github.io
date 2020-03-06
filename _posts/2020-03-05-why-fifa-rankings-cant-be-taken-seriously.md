@@ -67,3 +67,7 @@ Soccer, similar to any game, is a game that can’t be justified. It is pleasant
 <body>
   <h3> Link to blog post in Medium:</h3>
   <p><a href="https://medium.com/@jsmazorra/analysis-of-fifa-rankings-and-why-it-cant-be-taken-seriously-404a22f0e765">Medium Article</a></p>
+
+<body>
+  <h3> Link to Github Project:</h3>
+  <p><a href="https://github.com/jsmazorra/DS-Unit1-Build">Build Project on Github</a></p>
