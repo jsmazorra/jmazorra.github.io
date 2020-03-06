@@ -1,12 +1,14 @@
 ---
-date: 2020-03-05 12:26:40
+date: 2020-03-05 T19:17:18.000Z
 layout: post
 title: Analysis of FIFA Rankings and Why It Can’t Be Taken Seriously
-subtitle: by
+subtitle: by Johan Mazorra
 description: >-
-by Johan Mazorra
-image: https://miro.medium.com/max/6240/0*DlmE7BQM9vYQWCvy
-optimized_image: https://miro.medium.com/max/6240/0*DlmE7BQM9vYQWCvy
+Innovativeness is a key component of human insight and a test for AI. Computer based intelligence procedures can be utilized to make new thoughts in three different ways: by creating novel mixes of commonplace thoughts; by investigating the capability of reasonable spaces; and by making changes that empower the age of beforehand unimaginable thoughts. Man-made intelligence will have less trouble in demonstrating the age of new thoughts than in computerizing their assessment.
+image: >-
+https://miro.medium.com/max/6240/0*DlmE7BQM9vYQWCvy
+optimized_image: >-
+  https://miro.medium.com/max/6240/0*DlmE7BQM9vYQWCvy
 category: sports
 tags:
   - soccer
