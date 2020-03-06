@@ -36,7 +36,8 @@ The equation turns out P= M x I x T x C x 100.
 The greatest issue is that the equation utilizes itself within it. A bit of the computation depends on the last positioning the groups were given. So if the computation puts a group as being positioned 30 but has a dash of good games where it beats profoundly positioned groups, the lower group gets helped yet the higher position doesn’t get moved as much on the grounds that their worth is less critical. This considers generally solid groups to hold high positions in any event, when they experience losing streaks and list turnover.
 
 <img src="https://miro.medium.com/max/789/1*6wFgoQ56M6EB2hTg6HIezA.png" alt="medium.com">
-This chart shows the comparison of the total points of the top ten teams between 2013 through 2018.
+<em>This chart shows the comparison of the total points of the top ten teams between 2013 through 2018.<em>
+
 In this chart, we can analyze that there’s no significant difference between 2014 and 2018 total points of the top ten teams in which both years were the last two World Cups. What’s more, is that both of them have a similar amount of points between them as with the 2013 results. This just doesn’t make any sense whatsoever and goes to show that FIFA has favoritism over certain teams and leagues.
 
 <h2> 2. There’s No Structure In The Calculations </h2>
@@ -44,13 +45,17 @@ In this chart, we can analyze that there’s no significant difference between 2
 Another large issue is that the calculation can’t in any way, shape or form figure structure in a game. On the off chance that an awful positioned group can smother the first or second positioned group for each of the hour and a half of the game, the presentation would be taken a gander at as an extraordinary match. The rankings would thus drop this group demonstrated an ability to fight with a solid side. The rankings additionally can’t grant or remove focuses for genuine situations for rivalries.
 In the event that a group gets their B crew program and wins with them against a more grounded adversary or loses with them to a more vulnerable rival, the way that the side was debilitated for reasons unknown can’t be placed into the computations. Groups that are facilitating an opposition who don’t have to fit the bill for the competition don’t get an exceptional status on the positioning.This implies if a group is facilitating a competition, they are playing well-disposed matches on global dates rather than the passing matches that their rivals in the competition would play.
 This permits rivals to gain more focuses according to the equation than a country that is picked to have a competition.
+!
 
+<img src="https://miro.medium.com/max/615/1*zlhjO0zkEVnFP_1dU8McWw.png" alt="medium.com2">
+<img src="https://miro.medium.com/max/621/1*GiGXbSdK64YzVHeuqpfTew.png" alt="medium.com3">
+<em>Comparison between the point average of the teams for the current and past year.<em>
 
-Comparison between the point average of the teams for the current and past year.
 Here we can see the differences between the past year and the current year (which in this case would be 2018) point average, in which as stated above it’s nonsensical since the World Cup was in 2018 where Germany didn’t make it past the group stage and where Italy didn’t even qualify to the World Cup. So according to the FIFA World rankings data, this didn’t make much difference between the two year’s point average for Germany but the point average did actually increase for Italy for the current year. It’s pretty laughable if you asked me.
 
 > At the end of the day, soccer is a game that can’t be justified.
 
+<img src="https://miro.medium.com/max/1500/1*zFDf9x9ReZUoW2830p_Zag.jpeg" alt="medium.com4">
 <h2> 3. Teams Ultimately Get Hurt Depending On What Confederation They’re In </h2>
 
 The last tremendous issue is that groups are harmed during the time that a group is fitting the bill for a competition. This is on the grounds that they are just playing groups inside one confederation. In the event that a group is a powerhouse in their gathering, their positioning can’t ascend as much as a center of the pack group in a superior confederation.
