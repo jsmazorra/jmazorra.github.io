@@ -67,3 +67,4 @@ So while a country like Austria or Slovakia can be supported during the capabili
 <h2> In Conclusion </h2>
 
 Soccer, similar to any game, is a game that can’t be justified. It is pleasant to have a framework that figures how solid a group is. It assists individuals with reviewing the adversaries of their country, yet like any equation put to figure something in sports other than measurements, the FIFA World Rankings basically can’t get in all the elements.
+</body>
