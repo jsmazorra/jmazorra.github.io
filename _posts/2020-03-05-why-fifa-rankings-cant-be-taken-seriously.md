@@ -39,7 +39,7 @@ The equation turns out P= M x I x T x C x 100.
 The greatest issue is that the equation utilizes itself within it. A bit of the computation depends on the last positioning the groups were given. So if the computation puts a group as being positioned 30 but has a dash of good games where it beats profoundly positioned groups, the lower group gets helped yet the higher position doesn’t get moved as much on the grounds that their worth is less critical. This considers generally solid groups to hold high positions in any event, when they experience losing streaks and list turnover.
 
 <img src="https://miro.medium.com/max/789/1*6wFgoQ56M6EB2hTg6HIezA.png" alt="medium.com">
-<em>This chart shows the comparison of the total points of the top ten teams between 2013 through 2018.<em>
+<em>This chart shows the comparison of the total points of the top ten teams between 2013 through 2018.</em>
 
 In this chart, we can analyze that there’s no significant difference between 2014 and 2018 total points of the top ten teams in which both years were the last two World Cups. What’s more, is that both of them have a similar amount of points between them as with the 2013 results. This just doesn’t make any sense whatsoever and goes to show that FIFA has favoritism over certain teams and leagues.
 
@@ -52,7 +52,7 @@ This permits rivals to gain more focuses according to the equation than a countr
 
 <img src="https://miro.medium.com/max/615/1*zlhjO0zkEVnFP_1dU8McWw.png" alt="medium.com2">
 <img src="https://miro.medium.com/max/621/1*GiGXbSdK64YzVHeuqpfTew.png" alt="medium.com3">
-<em>Comparison between the point average of the teams for the current and past year.<em>
+<em>Comparison between the point average of the teams for the current and past year.</em>
 
 Here we can see the differences between the past year and the current year (which in this case would be 2018) point average, in which as stated above it’s nonsensical since the World Cup was in 2018 where Germany didn’t make it past the group stage and where Italy didn’t even qualify to the World Cup. So according to the FIFA World rankings data, this didn’t make much difference between the two year’s point average for Germany but the point average did actually increase for Italy for the current year. It’s pretty laughable if you asked me.
 
